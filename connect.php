@@ -4,9 +4,9 @@
     $password = "it12345";
     $dbname = "it65309010001";
 
-    $username = "root";
+    /*$username = "root";
     $password = "12345678";
-    $dbname = "wed2111";
+    $dbname = "wed2111";*/
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
